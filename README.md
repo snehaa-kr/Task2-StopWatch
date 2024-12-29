@@ -15,6 +15,7 @@ Features:
 • User-friendly Interface: Simple layout with intuitive controls.
 
 
+
 Technologies Used:
 
 • HTML5: Structure of the web page. 
